@@ -11,3 +11,10 @@ IN THE R PROGRAMMING FILES FOLDER BELOW CONTENTS:-
 6) R-DATA-STRUCTURE-LIST
 7) R-DATA-STRUCTURE-MATRICES
 8) MY SECOND DAY R-PROGRAMMING-PRACTICE
+
+## 🪪 License
+
+This repository is open for learning and non-commercial use.  
+Please give credit if you share or reuse the material. 🙌
+
+-⭐ This Core R Practice was completed as part of my data analytics training/Journey And the Core R Practice Done At <a href="https://futurevisioncomputers.com/">Future Vision Computer Institute</a>,Surat.
